@@ -1,0 +1,28 @@
+Function result: 230.34.
+Container contains 5 elements.
+
+Cartoon film
+	title: Three cats
+	year: 2017
+	type: hand drawn
+
+Feature film
+	title: sqsqsq dwdwd
+	year: 2018
+	director: dwodwd wdwd
+
+Feature film
+	title: fjwedwd
+	year: 1999
+	director: vfdfd
+
+Documentary film
+	title: Hello
+	year: 2020
+	duration: 200
+
+Cartoon film
+	title: Mr lucky
+	year: 2011
+	type: hand drawn
+

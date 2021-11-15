@@ -1,0 +1,17 @@
+Container contains 3 elements.
+
+Feature film
+	title: Harry Potter
+	year: 2002
+	director: Chris Columbus
+
+Cartoon film
+	title: Three cats
+	year: 2017
+	type: hand drawn
+
+Documentary film
+	title: Children of HSE
+	year: 2021
+	duration: 176
+

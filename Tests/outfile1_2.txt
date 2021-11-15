@@ -1,0 +1,8 @@
+Function result: 167.76.
+Container contains 1 elements.
+
+Cartoon film
+	title: Three cats
+	year: 2017
+	type: hand drawn
+

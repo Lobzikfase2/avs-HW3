@@ -1,0 +1,37 @@
+Container contains 7 elements.
+
+Feature film
+	title: Harry Potter
+	year: 2002
+	director: Chris Columbus
+
+Cartoon film
+	title: Three cats
+	year: 2017
+	type: hand drawn
+
+Documentary film
+	title: Children of HSE
+	year: 2021
+	duration: 176
+
+Feature film
+	title: sqsqsq dwdwd
+	year: 2018
+	director: dwodwd wdwd
+
+Feature film
+	title: fjwedwd
+	year: 1999
+	director: vfdfd
+
+Documentary film
+	title: Hello
+	year: 2020
+	duration: 200
+
+Cartoon film
+	title: Mr lucky
+	year: 2011
+	type: hand drawn
+
